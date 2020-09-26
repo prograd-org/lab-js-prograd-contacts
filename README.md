@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Lab | JS | REGEX
+# ProGrad Lab | JS | PROGRAD-CONTACTS
 
 We have learned regex works in JavaScript. Now lets work with our regex lab, applying all of the concepts we have just learned.
 
