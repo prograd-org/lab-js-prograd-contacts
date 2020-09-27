@@ -25,7 +25,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ### Progression 1: PROMISE ME
 Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in browser console.
 
-![](https://i1.faceprep.in/ProGrad/contacts-1.png)
+![](https://i1.faceprep.in/ProGrad/contact-1.png)
 
 ### Progression 2: SHOW MY PROMISE
 Once the promise gets resolved, Display it in the form of list as shown in the output.
@@ -44,7 +44,7 @@ var player='<h2>Lists of Users</h2>';
                       <div>Zipcode : ${user.address.zipcode}</div>
                      </div>`
 ```
-![](https://i1.faceprep.in/ProGrad/contacts-2.png)
+![](https://i1.faceprep.in/ProGrad/contact-2.png)
 ### Progression 3: REJECT ME
 When the promise call is rejected then throw an error.
 
