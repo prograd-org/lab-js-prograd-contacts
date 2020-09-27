@@ -8,7 +8,7 @@ We have learned promise works in JavaScript. Now lets work with our promise lab,
 ```
 Fork this repo
 Clone this repo
-Practice fetch,axios,api Features
+Practice promise Features
 ```
 
 ## How To Submit
