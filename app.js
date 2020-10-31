@@ -20,7 +20,7 @@ btn.onclick = function () {
         request.onerror = () =>
             //request.onerror specifies what should be done when the http link fails to get fetched// 
             {
-                reject(Error('Error fetching data.'));
+                reject(Error('Error'));
             };
 
         request.send(); //sending the created request//
