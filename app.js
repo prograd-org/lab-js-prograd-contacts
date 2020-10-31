@@ -26,8 +26,6 @@ btn.onclick = function () {
         request.send(); //sending the created request//
     });
 
-    console.log('Asynchronous request made.');
-
     promise.then((data) =>
         //promise.then specifies what event takes place after the success//
         {
