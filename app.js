@@ -21,7 +21,7 @@ btn.onclick = function(){
     });
     console.log('Asynchronous request made.');
     promise.then((data)=>{
-       // console.log(data)
+     
         const result= JSON.parse(data);
         console.log(result);
        var player='<h2>Lists of Users</h2>';
