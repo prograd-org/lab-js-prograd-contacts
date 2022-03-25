@@ -18,7 +18,6 @@ var promise =new Promise((reslove,reject)=>
         }
         request.send();
     })
-
     promise.then((data) =>
     {
         console.log(data)
