@@ -3,7 +3,7 @@
   margin-bottom: 10px;
   margin-left: 47%;
   background-color: white;
-  border: 1px solid rgb(231, 126, 5);
+  border: 1px solid rgb(5, 231, 126);
   border-radius: 5px;
   padding:10px;
   font-weight: bold;
@@ -12,7 +12,7 @@
     transform: scale(1.15);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
     border: 1px solid rgb(231, 126, 5);
-    background-color: rgb(241, 123, 12);
+    background-color: rgb(198, 118, 235);
     color: rgb(246, 248, 247);
     transition: .5s;
     cursor: pointer;
@@ -49,6 +49,6 @@ h2{
 .player:hover{
     transform: scale(1.15);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
-    background-color: rgb(241, 123, 12);
+    background-color: rgb(27, 210, 216);
 
 }
