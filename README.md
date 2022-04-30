@@ -20,7 +20,7 @@ git commit -m "ProGrad ID"
 git push origin master
 
 And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
+
 
 ### Progression 1: PROMISE ME
 Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in browser console.
