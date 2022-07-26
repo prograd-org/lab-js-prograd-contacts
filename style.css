@@ -20,7 +20,7 @@
   }
 #message {
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns: 25% 25% 25% 25%;
     grid-column-gap: 1em;
 }
 .player {
@@ -51,4 +51,21 @@ h2{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
     background-color: rgb(241, 123, 12);
 
+}
+.user-card{
+    height: 300px;
+    width: 250px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-size: large;
+    padding: 30px;
+    
+}
+b.user-name{
+    font-size: larger;
+}
+p{
+    line-height: 1.6;
+    margin: 0;
 }
